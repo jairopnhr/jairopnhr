@@ -18,5 +18,5 @@
 <img loading="lazy" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" target="_blank">
 <img loading="lazy" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank">
 <img loading="lazy" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/Next-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" target="_blank">
+<img loading="lazy" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" target="_blank">
 </div>
